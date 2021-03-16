@@ -11,7 +11,12 @@
   </p>
 </div>
 
-- 😄 [Portfolio](https://www.notion.so/Jinyoung-Devly-ec2614e9673b4e00bc2abff89242fe01) 😄
+<div> <h2>😄 
+  <a href="https://www.notion.so/Jinyoung-Devly-ec2614e9673b4e00bc2abff89242fe01">
+  Portfolio 😄 
+  </a>
+    </h2>
+  </div>
   
   
 <!--
